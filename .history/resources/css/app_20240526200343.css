@@ -1,0 +1,97 @@
+ @import 'bootstrap-icons/font/bootstrap-icons.css';
+
+ .body-login {
+     background-color: #8eaddb;
+     opacity: 400;
+ }
+
+ .body-home-light {
+     background-color: #ffffff;
+     opacity: 200;
+ }
+
+ .body-home-dark {
+     background-color: #120461;
+     opacity: 200;
+ }
+
+ /* chart: {
+    background: #120461;
+} */
+
+ .login-container {
+     max-width: 1000px;
+     max-height: 100%;
+     margin: 10 auto;
+     padding: 10px;
+     background-color: #f6921e;
+     border-radius: 10px;
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ }
+
+ .navbar {
+     background-color: #f6921e;
+ }
+
+ .navbar-dark {
+     background-color: #945916;
+ }
+
+ 
+
+ .register-container {
+     max-width: 1000px;
+     max-height: 100%;
+     margin: 10 auto;
+     padding: 10px;
+     background-color: #f6921e;
+     border-radius: 10px;
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ }
+
+ .icon-small {
+     font-size: 1rem;
+ }
+
+ .icon-medium {
+     font-size: 2rem;
+ }
+
+ .icon-large {
+     font-size: 6rem;
+ }
+
+ .card-home {
+     background-color: #f6921e;
+ }
+
+ .card-home:hover {
+     background-color: #935610;
+ }
+
+ .btn-custom {
+     width: 100%;
+     padding: 10px 20px;
+     margin: 10px;
+     margin-bottom: 4px;
+ }
+
+ .btn-custom span {
+     font-size: 0.8rem;
+     color: #000;
+ }
+
+ @media (max-width: 768px) {
+     .btn-custom {
+         margin-bottom: 10px;
+     }
+ }
+
+ .act-btn {
+     align-items: center;
+     justify-content: center;
+ }
+
+ .modal-body {
+     background-color: #f6921e;
+ }

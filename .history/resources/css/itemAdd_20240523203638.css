@@ -1,0 +1,14 @@
+     label.col-form-label {
+            display: flex;
+            align-items: center;
+    }
+
+        form {
+            position: relative;
+        }
+
+     .btn-primary {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+    }

@@ -1,0 +1,17 @@
+.custom-summary {
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.custom-summary p {
+    margin: 0.25rem 0;
+}
+
+.date-picker-container input[type="date"] {
+    width: 48%;
+}
+
+.date-picker-container {
+    display: flex;
+    justify-content: space-between;
+}
